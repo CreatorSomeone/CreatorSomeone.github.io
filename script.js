@@ -9,3 +9,9 @@ function login() {
     }
   }
   
+  function goToLogin() {
+    window.location.href = "index.html"; // Redirect to the login page
+  }
+
+  
+  
